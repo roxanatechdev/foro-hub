@@ -16,7 +16,7 @@
 ## 🚀 Instalación y Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/Anny-rox/Foro-hub
+   git clone https://github.com/roxanatechdev/foro-hub
    cd foro-hub
    ```
 
