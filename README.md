@@ -4,7 +4,7 @@
 **Foro Hub** es una API REST que permite la gestión eficiente de usuarios y la interacción en foros de discusión a traves de tópicos. Con funcionalidades para crear y administrar tópicos y respuestas mediante autenticación, diseñada como un proyecto backend, incorpora buenas prácticas de desarrollo y herramientas modernas para ofrecer una solución robusta y escalable.
 
 ## 🛠️ Tecnologías Utilizadas 
-- **Java** (JDK 17)
+- **Java** (JDK 17) 
 - **Spring Boot 3**
 - **PostgreSQL** (Base de datos relacional)
 - **Spring Security** (Autenticación y autorización)
